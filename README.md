@@ -35,3 +35,6 @@ a. Project title (Editable).
 b. List of todos with description, date, and completion status.
 c. Actions to Add/Update/Remove a todo.
 d. Mark a todo as pending or complete.
+
+# Explanation.
+•	Description: - App manage user Todos in project i.e. one user can create multiple project, in single project user can create multiple todos as per project needs. Todos having option like its pending, complete as per user needs user can select this option for future understanding. User can edit todos, delete todos. Also I have provide function likes todos have created date as well updated date.
