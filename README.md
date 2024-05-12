@@ -1,4 +1,5 @@
 # TodoManagement
+# One of the fastest growing company Hatio Innovations Pvt. Ltd. assign me above home challenge, I accepted and successfully completed within the deadline.
 
 
 Develop an application to manage todos with the following capabilities:
@@ -37,4 +38,12 @@ c. Actions to Add/Update/Remove a todo.
 d. Mark a todo as pending or complete.
 
 # Explanation.
+I have created three tables describe as below.
+
+1.customer :- its manage all user login crenditial 
+
+2.project :- its manage project details belongs with userID.
+
+3. todos : its manage todos details belongs with project Id. 
+
 •	Description: - App manage user Todos in project i.e. one user can create multiple project, in single project user can create multiple todos as per project needs. Todos having option like its pending, complete as per user needs user can select this option for future understanding. User can edit todos, delete todos. Also I have provide function likes todos have created date as well updated date.
